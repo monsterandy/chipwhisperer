@@ -34,3 +34,5 @@
 [submodule "hardware/victims/cw305_artixtarget/fpga/fpga-common"]
 	path = hardware/victims/cw305_artixtarget/fpga/fpga-common
 	url = https://github.com/newaetech/fpga-common.git
+[submodule "jupyter"]
+	url = https://github.com/monsterandy/chipwhisperer-jupyter.git
